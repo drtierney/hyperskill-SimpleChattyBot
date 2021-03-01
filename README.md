@@ -1,7 +1,7 @@
 # hyperskill-SimpleChattyBot
 A simple bot that will help you in your learning and make it more fun.  
 https://hyperskill.org/projects/31  
-<img src="https://github.com/drtierney/hyperskill-SimpleChattyBot/blob/master/SimpleChattyBot.gif" width="800" height="500" />
+<img src="https://github.com/drtierney/hyperskill-SimpleChattyBot/blob/main/SimpleChattyBot.gif" width="800" height="500" />
 
 ## Syntax
 ```
